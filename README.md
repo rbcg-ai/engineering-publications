@@ -31,4 +31,4 @@ These works form a deliberate stack:
 
 ## License
 
-The repository contents will be released under **CC BY-SA 4.0**, matching the published works.
+The repository contents are released under **CC BY-SA 4.0**, matching the published works.
