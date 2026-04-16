@@ -2,7 +2,7 @@
 
 Public publications and companion documents from RBCG.ai.
 
-This repository is the public distribution companion for three published works by Phil Russo:
+This repository is the public distribution companion for four published works by Phil Russo:
 
 1. **The Discipline of Dependable Software: A Practical Philosophy for Long-Lived Systems**  
    Zenodo: https://zenodo.org/records/19597270  
@@ -16,13 +16,18 @@ This repository is the public distribution companion for three published works b
    Zenodo: https://zenodo.org/records/19597599  
    DOI: https://doi.org/10.5281/zenodo.19597599
 
+4. **The Halocline: The Invisible Boundary Between Two Kinds of AI Work**  
+   Zenodo: https://zenodo.org/records/19617437  
+   DOI: https://doi.org/10.5281/zenodo.19617437
+
 ## Relationship of the documents
 
 These works form a deliberate stack:
 
 - **The Discipline of Dependable Software** establishes the engineering philosophy.
 - **Human-Assisted AI** provides the AI-specific foundation.
-- **The Confluent Method** provides the actionable methodology built on top of the first two.
+- **The Confluent Method** provides the structured methodology for AI-assisted development.
+- **The Halocline** defines the boundary between the Creative AI Domain and the Operational AI Domain and positions the other works around that distinction.
 
 ## Author
 
